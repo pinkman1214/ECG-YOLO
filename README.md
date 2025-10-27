@@ -1,7 +1,5 @@
 
 # ECG-YOLO
-
-=======
 # Edge-Enhanced and Context-Guided Detection of Steel Surface Defects
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
