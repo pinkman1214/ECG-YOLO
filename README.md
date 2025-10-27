@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # ECG-YOLO
-論文代碼
+
 =======
 # Edge-Enhanced and Context-Guided Detection of Steel Surface Defects
 
@@ -8,7 +8,7 @@
 Official PyTorch implementation of the paper:
 
 **Edge-Enhanced and Context-Guided Detection of Steel Surface Defects**  
-Zhentao Hu , Jing Yan , Fei Nu, Wei Hou  
+Zhentao Hu , Jing Yan , Fei Niu, Wei Hou  
 School of Artificial Intelligence, Henan University  
 
 ---
@@ -40,4 +40,4 @@ ECG-YOLO/
 ├── modocs.yaml     
 ├── README.md           
 └── LICENSE              
->>>>>>> 384aee4 (first commit)
+
