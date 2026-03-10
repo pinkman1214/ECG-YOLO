@@ -10,6 +10,17 @@ Zhentao Hu , Jing Yan , Fei Niu, Wei Hou
 School of Artificial Intelligence, Henan University  
 
 ---
+## 🛠️ Environment and Dependencies
+
+This project was developed and evaluated under the following environment settings [cite: cas Configuration
+* **OS:** Windows
+* **CPU:** Intel Core i7-11700K
+* **GPU:** NVIDIA GeForce RTX 3090 (24 GB VRAM)
+
+### Software Dependencies
+* **Python:** 3.9
+* **PyTorch:** 1.12.1
+* **CUDA:** 11.6 [cite: cas-sc-sample.pdfend using Conda to manage your environment. You can set it up quickly with the following commands:
 
 ## 📌 Highlights
 
