@@ -16,7 +16,7 @@ This project was developed and evaluated under the following environment setting
 * **OS:** Windows
 * **CPU:** Intel Core i7-11700K
 * **GPU:** NVIDIA GeForce RTX 3090 (24 GB VRAM)
-
+* **seed:** default setting (seed=0)
 ### Software Dependencies
 * **Python:** 3.9
 * **PyTorch:** 1.12.1
